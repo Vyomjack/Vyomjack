@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vyomjack
-- 👀 I’m interested in Web Development, aiming to be a full stack developer. 
-- 🌱 I’m currently learning front-end web development tools, which includes HTML, CSS, JAVASCRIPT and REACT.
+- 👀 I’m interested in DevOps, aiming to be a Senior DevOps Engineer. 
+- 🌱 I’m currently learning DevOps tools, which includes GitHub, Linux, Terraform, Ansible, AWS Cloud, Docker, Kubernetes, etc.
 - 💞️ I’m looking to collaborate on projects which can help me gain practical knowledge and experiences.
 - 📫 How to reach me- email me 'vyomesh.raghav@gmail.com' 
 
